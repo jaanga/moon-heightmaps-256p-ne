@@ -5,8 +5,8 @@
 This repository contains 10,800 PNGs that provide height data for the Moon for latitudes -1 to -60 and longitude -1 to -180
 
 
-<span style=display:none; >[You are now in GitHub source code view - click here to view Read Me file as a web page]( http://jaanga.github.io/moon/moon-heightmaps-256p-ne/ "View file as a web page." ) </span>
-<input type=button value='You are now in GitHub web page view - Click here to view Read Me file as source code' onclick=window.location.href='https://github.com/jaanga/moon/tree/gh-pages/moon-heightmaps-256p-ne/'; />
+<span style=display:none; >[You are now in GitHub source code view - click here to view Read Me file as a web page]( http://jaanga.github.io/moon-heightmaps-256p-ne/ "View file as a web page." ) </span>
+<input type=button onclick=window.location.href='https://github.com/jaanga/moon-heightmaps-256p-ne/'; value='You are now in GitHub web page view - Click here to view Read Me file as source code' />
 
 ## Sample Use of Data in 3D App
 <iframe src="http://jaanga.github.io/moon/rover-256p/moon-rover-256p-multi-tile-r1.html" width=100% height=500px ></iframe>  
