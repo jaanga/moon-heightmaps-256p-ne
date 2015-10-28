@@ -1,4 +1,4 @@
-[Jaanga]( http://jaanga.github.io/ ) &raquo; [Moon]( http://jaanga.github.io/moon/ )
+[Jaanga]( http://jaanga.github.io/ ) &raquo; [Outer Space]( http://jaanga.github.io/outer-space ) &raquo; [Moon]( http://jaanga.github.io/moon/ ) &raquo; [Heightmaps]( http://jaanga.github.io/moon/heightmaps/ ) &raquo;  
 
 [moon-heightmaps-256p-ne Read Me]( index.html )
 ===
@@ -26,7 +26,7 @@ This demo uses heightmap data to:
 _May take a while to load. Page freezes while loading..._
 
 <iframe src="http://jsfiddle.net/theo/dwje1w0d/" width=100% height=500px ></iframe>  
-#### _Read PNG Composite R2 hosted on jsFiddle_
+#### _Sample Read PNG Composite R2 hosted on jsFiddle_
 
 
 [Read multiple PNG files and combine]( http://jaanga.github.io/moon/utilities/read-png-composite-r2.html> )
@@ -42,6 +42,8 @@ The example above access the heightmap data on GitHub from an HTL file hosted on
 ## Features
 
 ### Use of PNG files
+
+_Needs description of the data_
 
 The use of PNG files as heightmaps solves many problems and provides many benefits/
 
