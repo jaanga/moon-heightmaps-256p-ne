@@ -2,11 +2,11 @@
 
 [moon-heightmaps-256p-ne Read Me]( index.html )
 ===
-This repository contains 10,800 PNGs that provide height data for the Moon for latitudes -1 to -60 and longitude -1 to -180
-
 
 <span style=display:none; >[You are now in GitHub source code view - click here to view Read Me file as a web page]( http://jaanga.github.io/moon-heightmaps-256p-ne/ "View file as a web page." ) </span>
 <input type=button onclick=window.location.href='https://github.com/jaanga/moon-heightmaps-256p-ne/'; value='You are now in GitHub web page view - Click here to view Read Me file as source code' />
+
+This repository contains 10,800 PNGs that provide heightmap data for the Moon for latitudes 0 to 60 and longitudes 0 to 180
 
 ## Sample Use of Data in 3D App
 <iframe src="http://jaanga.github.io/moon/rover-256p/moon-rover-256p-multi-tile-r1.html" width=100% height=500px ></iframe>  
@@ -38,6 +38,18 @@ _May take a while to load. Page freezes while loading..._
 Data hosted on GitHub pages is CORS-compatible and may therefor be accessed from any web site or server.
 The example above access the heightmap data on GitHub from an HTL file hosted on [jsFiddle]( http://jasfiddle.net ).
 
+
+## Features
+
+### Use of PNG files
+
+The use of PNG files as heightmaps solves many problems and provides many benefits/
+
+* Data is highly compressed without loss
+* Files are transmitted and cached speedily and effortlessly
+* Creating mash-ups with data from multiple servers is easy and permissible
+* You can actually look at the file and see something
+* The scope and range of tools to process PNG files is huge
 
 
 ## File information Info
@@ -160,7 +172,7 @@ The WAC topography was produced by LROC team members at the German Aerospace Cen
 
 Copyright © 2015 Jaanga authors
 
-This work is available under two licenses
+This work is available under two licenses:
 
 1: Jaanga software is available under the [MIT License]( http://en.wikipedia.org/wiki/MIT_License) which states:
 
@@ -172,9 +184,16 @@ The above copyright notice and this permission notice shall be included in all c
 The software is provided 'as is', without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement.
 In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
 
+2: Jaanga documentation and data is available under a [Creative Commons]( http://creativecommons.org/ ) CC0 license.
 
-2: Jaanga data is available under a Creative Commons license
-
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" rel="dct:type">work</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+<a rel="license" href="http://creativecommons.org/publicdomain/zero/1.0/">
+<img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+</a>
+<br />
+To the extent possible under law, <a rel="dct:publisher" href="http://jaanga.github.io">
+<span property="dct:title">Jaanga authors</span></a> have waived all copyright and related or neighboring rights to <span property="dct:title">Jaanga works</span>.
+This work is published from: <span property="vcard:Country" datatype="dct:ISO3166" content="US" about="http://jaanga.github.io"> United States</span>.
+</p>
 
 
